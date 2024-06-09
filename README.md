@@ -17,8 +17,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/jonathan david fernandez vargas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jonathan david fernandez vargas" height="30" width="40" /></a>
 <a href="https://kaggle.com/jonathan77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jonathan77" height="30" width="40" /></a>
-<a href="https://fb.com/jonathan david" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jonathan david" height="30" width="40" /></a>
-<a href="https://instagram.com/@jonathandvid77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@jonathandvid77" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100003792250786&mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jonathan david" height="30" width="40" /></a>
+<a href="https://www.instagram.com/jonathandvid77?igsh=eGp6N2F4dTZnMDlu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@jonathandvid77" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
