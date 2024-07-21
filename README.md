@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Jonathan David Fernandez @Jonathand77</h1>
 <h3 align="center">Desarrollo web y desarrollo de software.</h3>
 
-- 🔭 I’m currently working on [Proyects](link)
+- 🔭 I’m currently working on [Proyects](https://github.com/Jonathand77/wwe-database)
 
 - 🌱 I’m currently learning **DataBase, Programming Languages, Devops**
 
-- 👨‍💻 All of my projects are available at [link](link)
+- 👨‍💻 All of my projects are available at [link](https://jonathand77.github.io/mi-portafolio/)
 
-- 💬 Ask me about **Java, Python, HTML, CSS, JavaScript, Git, Introducción a la programación.**
+- 💬 Ask me about **Introducción a la programación, Java, Python, HTML, CSS, JavaScript, Git, React.**
 
 - 📫 How to reach me **jonathanfdez62@gmail.com**
 
