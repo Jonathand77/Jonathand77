@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jonathan David Fernandez @Jonathand77</h1>
-<h3 align="center">Desarrollo web, Full Stack, MERN Stack, Software Development.</h3>
+<h3 align="center">Web Development, Full Stack, MERN Stack, Software Development.</h3>
 
-- 🔭 I’m currently working on [Proyects](https://github.com/Jonathand77/wwe-database)
+- 🔭 I’m currently working on [Proyects](https://github.com/Jonathand77)
 
 - 🌱 I am currently training as a **systems engineer**
 
