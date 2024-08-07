@@ -1,17 +1,19 @@
 <h1 align="center">Hi 👋, I'm Jonathan David Fernandez @Jonathand77</h1>
-<h3 align="center">Desarrollo web y desarrollo de software.</h3>
+<h3 align="center">Desarrollo web, Full Stack, MERN Stack, Software Development.</h3>
 
 - 🔭 I’m currently working on [Proyects](https://github.com/Jonathand77/wwe-database)
 
+- 🌱 I am currently training as a **systems engineer**
+
 - 🌱 I’m currently learning **DataBase, Programming Languages, Devops**
 
-- 👨‍💻 All of my projects are available at [link](https://jonathand77.github.io/mi-portafolio/)
+- 👨‍💻 All of my projects are available at [MyPortafolio](https://jonathand77.github.io/mi-portafolio/)
 
-- 💬 Ask me about **Introducción a la programación, Java, Python, HTML, CSS, JavaScript, Git, React.**
+- 💬 Ask me about **Introduction to programming, Java, Python, Frontend, Backend, Full Stack, MERN Stack, Dev, Git, React.**
 
 - 📫 How to reach me **jonathanfdez62@gmail.com**
 
-- ⚡ Fun fact **Soy una persona apasionada por el aprendizaje continuo y la resolución creativa de problemas. Mi experiencia abarca diversos campos, desde la programación y la investigación hasta la atención al cliente y la consultoría. Me destaco por mi habilidad para comunicarme de manera clara y efectiva, así como por mi capacidad para adaptarme rápidamente a nuevos entornos y desafíos. Disfruto trabajando en equipo, colaborando para alcanzar objetivos comunes y aportando ideas innovadoras. Mi enfoque proactivo y mi dedicación me han permitido desarrollar habilidades sólidas en múltiples áreas, como lo son el desarrollo web y desarrollo de software, siempre buscando superar expectativas y generar un impacto positivo en cualquier proyecto en el que participe.**
+- ⚡ Fun fact **I am a person passionate about continuous learning and creative problem solving. My experience spans diverse fields, from programming and research to customer service and consulting. I stand out for my ability to communicate clearly and effectively, as well as my ability to quickly adapt to new environments and challenges. I enjoy working in a team, collaborating to achieve common goals, and contributing innovative ideas. My proactive approach and dedication have allowed me to develop solid skills in multiple areas, such as web development and software development, always seeking to exceed expectations and generate a positive impact on any project I participate in.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
