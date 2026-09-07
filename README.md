@@ -114,18 +114,7 @@ Web-based transportation quoting system, built in collaboration with the Colombi
 ## 📊 GitHub stats
 
 <p align="center">
-	<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jonathand77&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="github stats" />
-	<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jonathand77&layout=compact&theme=tokyonight&hide_border=true&locale=en" alt="top langs" />
-</p>
-
-<p align="center">
 	<img src="https://streak-stats.demolab.com?user=Jonathand77&theme=tokyonight&hide_border=true" alt="streak stats" />
-</p>
-
-## 🏆 GitHub trophies
-
-<p align="center">
-	<img src="https://github-profile-trophy.vercel.app/?username=Jonathand77&theme=tokyonight&no-frame=true&row=1&column=6" alt="github trophies" />
 </p>
 
 ## 🐍 Contribution activity
